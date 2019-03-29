@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>First Git</h1>
+<h1>규환아 정말 고마워 Git</h1>
 </body>
 </html>
